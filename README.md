@@ -1,2 +1,2 @@
-# Web-Designer-Landing-Page
-Basic landing webpage for a Web Designer
+# Basic-Web-Designer-Landing-Page
+Please make sure to download all the files into single folder and open index.html
